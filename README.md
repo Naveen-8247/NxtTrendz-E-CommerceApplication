@@ -1,7 +1,7 @@
 # 🛒 Nxt Trendz (E-commerce Clone)
 
 ## 🔗 Live Demo
-[Visit Live Site](https://naveenstrends.ccbp.tech/)
+[Visit Live Site](https://naveenstrends.ccbp.tech)
 
 
 ## 👤 Demo Credentials
