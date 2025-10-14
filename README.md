@@ -3,6 +3,11 @@
 ## 🔗 Live Demo
 [Visit Live Site](https://naveenstrends.ccbp.tech/)
 
+
+## 👤 Demo Credentials
+- **Username:** rahul  
+- **Password:** rahul@2021 
+
 ## 💻 Description
 Nxt Trendz is a frontend e-commerce platform inspired by Amazon and Flipkart.  
 It allows users to browse products, view product details, and interact with a **mock login system**.  
