@@ -24,11 +24,11 @@ The platform features a **responsive design** and smooth user navigation.
 - Smooth routing with React Router  
 
 ## 📜 How to Run Locally
-1. Clone the repo: `git clone https://github.com/Naveen-8247/Nxt-Trendz.git`  
+1. Clone the repo: `git clone https://github.com/Naveen-8247/NxtTrendz-E-CommerceApplication.git`  
 2. Navigate to frontend: `cd frontend` → `npm install` → `npm start`  
 3. Open [http://localhost:3000](http://localhost:3000) in your browser  
 
 ## 📫 Contact / Links
-- GitHub Repo: [https://github.com/Naveen-8247/Nxt-Trendz](https://github.com/Naveen-8247/Nxt-Trendz)  
+- GitHub Repo: [https://github.com/Naveen-8247/NxtTrendz-E-CommerceApplication](https://github.com/Naveen-8247/NxtTrendz-E-CommerceApplication)  
 - Portfolio: [https://portfolio-72jb.vercel.app](https://portfolio-72jb.vercel.app)
 
