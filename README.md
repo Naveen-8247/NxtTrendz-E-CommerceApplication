@@ -40,8 +40,16 @@ The platform features a **responsive design** and smooth user navigation.
 ### 🛒 Empty Cart View
 ![Empty Cart](https://res.cloudinary.com/dcy78sibl/image/upload/v1760720331/Screenshot_2025-10-17_222629_yfd8vl.png)
 
+### 🛒 Cart Page
+![Cart Page](https://res.cloudinary.com/dcy78sibl/image/upload/v1760720738/Screenshot_2025-10-17_222717_rm7evj.png)
+
+
 ### 📄 Product Details View
 ![Product Details](https://res.cloudinary.com/dcy78sibl/image/upload/v1760720472/Screenshot_2025-10-17_222605_mr1pie.png)
+
+### 🔄 Similar Products View
+![Similar Products](https://res.cloudinary.com/dcy78sibl/image/upload/v1760721006/Screenshot_2025-10-17_223954_a7vcck.png)
+
 
 ### 💳 Payment Method Popup
 ![Payment Method](https://res.cloudinary.com/dcy78sibl/image/upload/v1760720477/Screenshot_2025-10-17_222735_tpwnx2.png)
@@ -52,8 +60,6 @@ The platform features a **responsive design** and smooth user navigation.
 ### ✅ Successful Order Page
 ![Successful Order](https://res.cloudinary.com/dcy78sibl/image/upload/v1760720486/Screenshot_2025-10-17_222749_iabqzp.png)
 
-### 🛒 Cart Page
-![Cart Page](https://res.cloudinary.com/dcy78sibl/image/upload/v1760720738/Screenshot_2025-10-17_222717_rm7evj.png)
 
 
 ## 🚀 Features
